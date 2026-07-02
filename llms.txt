@@ -1,0 +1,51 @@
+# Geotecnia1 — Osasco
+
+> Geotechnical engineering services in Osasco, Brasil.
+
+## Services
+- [Ancoragens](https://osasco.geotecnia1.org/ancoragens/)
+- [Cbr Viario](https://osasco.geotecnia1.org/cbr-viario/)
+- [Colunas Brita](https://osasco.geotecnia1.org/colunas-brita/)
+- [Densidade Cone Areia](https://osasco.geotecnia1.org/densidade-cone-areia/)
+- [Ensaio Cpt](https://osasco.geotecnia1.org/ensaio-cpt/)
+- [Ensaio Placa Carga](https://osasco.geotecnia1.org/ensaio-placa-carga/)
+- [Escavacoes](https://osasco.geotecnia1.org/escavacoes/)
+- [Escavacoes Profundas](https://osasco.geotecnia1.org/escavacoes-profundas/)
+- [Estabilidade Taludes](https://osasco.geotecnia1.org/estabilidade-taludes/)
+- [Estacas](https://osasco.geotecnia1.org/estacas/)
+- [Fundacoes](https://osasco.geotecnia1.org/fundacoes/)
+- [Geofisica](https://osasco.geotecnia1.org/geofisica/)
+- [Geotecnia Viaria](https://osasco.geotecnia1.org/geotecnia-viaria/)
+- [Granulometria](https://osasco.geotecnia1.org/granulometria/)
+- [Injecoes](https://osasco.geotecnia1.org/injecoes/)
+- [Investigacao](https://osasco.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://osasco.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://osasco.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://osasco.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://osasco.geotecnia1.org/limites-atterberg/)
+- [Liquefacao](https://osasco.geotecnia1.org/liquefacao/)
+- [Masw](https://osasco.geotecnia1.org/masw/)
+- [Melhoramento](https://osasco.geotecnia1.org/melhoramento/)
+- [Microzoneamento Sismico](https://osasco.geotecnia1.org/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://osasco.geotecnia1.org/monitoramento-escavacoes/)
+- [Muros Contencao](https://osasco.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://osasco.geotecnia1.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://osasco.geotecnia1.org/pavimento-rigido/)
+- [Permeabilidade In Situ](https://osasco.geotecnia1.org/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://osasco.geotecnia1.org/pocos-inspecao/)
+- [Radiers](https://osasco.geotecnia1.org/radiers/)
+- [Resistividade](https://osasco.geotecnia1.org/resistividade/)
+- [Sapatas](https://osasco.geotecnia1.org/sapatas/)
+- [Sismica](https://osasco.geotecnia1.org/sismica/)
+- [Sondagens Spt](https://osasco.geotecnia1.org/sondagens-spt/)
+- [Taludes](https://osasco.geotecnia1.org/taludes/)
+- [Triaxial](https://osasco.geotecnia1.org/triaxial/)
+- [Tuneis Solo Mole](https://osasco.geotecnia1.org/tuneis-solo-mole/)
+- [Vibrocompactacao](https://osasco.geotecnia1.org/vibrocompactacao/)
+
+## Contact
+- Website: https://osasco.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Osasco, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
